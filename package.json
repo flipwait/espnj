@@ -1,8 +1,8 @@
 {
   "name": "betbetter",
   "private": true,
-  "version": "1.4.1",
+  "version": "1.4.2",
   "engines": {
-    "node": "20.x"
+    "node": "24.x"
   }
 }
